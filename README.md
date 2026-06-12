@@ -1,6 +1,6 @@
 ### about me
 
-hi! i'm trisha — a cs + ai student at purdue.
+hi! i'm trisha, a cs + ai student at purdue.
 
 i like experimenting with ai/ml and full stack development, and building things that sit somewhere in between.
 
